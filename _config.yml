@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -83,9 +83,9 @@ author:
   name             : "Kutay Serova"
   avatar           : "profile.png"
   bio              : "Linguist, Syntactician, Potter"
-  location         : "Location"
+  location         : "Stanford University, CA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "kutay-serova"
   orcid            :
   pinterest        :
   soundcloud       :
