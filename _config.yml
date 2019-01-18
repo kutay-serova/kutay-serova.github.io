@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kutay Serova"
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   bio              : "Linguist, Syntactician, Potter"
   location         : "Stanford University, CA"
   employer         :
@@ -173,10 +173,10 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
@@ -199,7 +199,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: false
   # _publications
   - scope:
@@ -208,7 +208,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: false
   # _talks
   - scope:

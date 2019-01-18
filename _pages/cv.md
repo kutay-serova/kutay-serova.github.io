@@ -15,44 +15,56 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug, 2018 - Sep, 2018: Intern
+  * GT-ARC: German Turkish Advanced Research Center for ICT -- Berlin, Germany
+  * Description: Machine Learning, Supervised Learning, Experiment Design 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr, 2016 - Jun, 2018: Research Assistant
+  * Language & Cognition Lab, Stanford University
+  * Advisor: Masoud Jasbi
+  * Project Description: Study of the acquisition of connectives and disjunctives: 'and' and 'or'
+  * Job Description: Corpus Linguistics, Annotation, and Data Analysis
 
+* Aug, 2016 - Sep, 2016: Intern
+  * Innova IT Solutions -- Istanbul, Turkey.
+  * Software Development at the Application Development Team
+  * Keywords: Graph Databases, Docker Containers, Microservice Architecture
+
+* Jul, 2016 - Jun, 2016: Sculptor
+  * Taş Dünyası -- Istanbul, Turkey.
+
+{% comment %} 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endcomment %} 
 
-Talks
+Conferences
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>  
-  
+
+Languages
+======
+* Native: Turkish
+* Advanced: Kazakh, Japanese
+* Intermediate: German
+* Beginner: Yoruba
+* Statistical: R
+* Programming: Python, C++, Java, SQL
+* Formatting: LateX, Markdown
+
+{% comment %}
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+{% endcomment %}
