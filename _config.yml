@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kutay Serova"
+title                    : "Main Page"
 title_separator          : "-"
 name                     : &name "Kutay Serova"
-description              : &description "personal description"
+description              : &description "A personal website."
 url                      : https://kutay-serova.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kutay-serova/kutay-serova.github.io"

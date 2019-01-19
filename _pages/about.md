@@ -7,3 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+![Main Screen Image](/images/profile.JPG)
