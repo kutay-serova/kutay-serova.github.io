@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/redwood.JPG" alt="burnt redwood trunk" width="800"/>
+<img src="/images/redwood.JPG" alt="burnt redwood trunk" width="750"/>
 
 I am a linguist, a syntactician, and a potter.
 

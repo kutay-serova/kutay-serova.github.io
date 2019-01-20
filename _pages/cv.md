@@ -7,16 +7,16 @@ redirect_from:
   - /resume
 ---
 
-<img src="/images/agave.JPG" alt="agave parryi" width="800">
+<img src="/images/agave.JPG" alt="agave parryi" width="750">
 
 {% include base_path %}
 
 Education
-------
+--------------- 
 * B.A. Candidate in Linguistics, Stanford University, 2020
 
 Work experience
-------
+--------------- 
 * Aug, 2018 - Sep, 2018: Intern
   * GT-ARC: German Turkish Advanced Research Center for ICT -- Berlin, Germany
   * Description: Machine Learning, Supervised Learning, Experiment Design 
@@ -37,26 +37,26 @@ Work experience
 
 {% comment %} 
 Teaching
-------
+--------------- 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Publications
-------
+--------------- 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 {% endcomment %} 
 
 Conferences
-------
+--------------- 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>  
 
 Languages
-------
+--------------- 
 * Native: Turkish
 * Advanced: Kazakh, Japanese
 * Intermediate: German
@@ -67,6 +67,6 @@ Languages
 
 {% comment %}
 Service and leadership
-------
+--------------- 
 * Currently signed in to 43 different slack teams
 {% endcomment %}
