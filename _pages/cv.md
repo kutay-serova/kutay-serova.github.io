@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<img src="/images/agave.JPG" alt="agave parryi" width="750">
+<img src="/images/agave_1000width.JPG" alt="agave parryi" width="750">
 
 {% include base_path %}
 
@@ -21,7 +21,7 @@ Work experience
   * GT-ARC: German Turkish Advanced Research Center for ICT -- Berlin, Germany
   * Description: Machine Learning, Supervised Learning, Experiment Design 
 
-* Apr, 2016 - Jun, 2018: Research Assistant
+* May, 2016 - Jun, 2018: Research Assistant
   * Language & Cognition Lab, Stanford University
   * Advisor: Masoud Jasbi
   * Project Description: Study of the acquisition of connectives and disjunctives: 'and' and 'or'
@@ -35,7 +35,17 @@ Work experience
 * Jul, 2016 - Jun, 2016: Sculptor
   * Taş Dünyası -- Istanbul, Turkey.
 
-{% comment %} 
+Projects
+---------------
+* Dec, 2018: Human Vision Reconstruction with 3D Convolutional Neural Networks
+  * Team Members: Kaan Dönbekci
+  * Using fMRI data from BOLD 5000 to reconstruct visual stimuli
+
+Grants
+---------------
+* Stanford Vice Provost of Undergraduate Education (VPUE) Summer Research Grant
+
+{% comment %}
 Teaching
 --------------- 
   <ul>{% for post in site.teaching %}
@@ -63,10 +73,8 @@ Languages
 * Beginner: Yoruba
 * Statistical: R
 * Programming: Python, C++, Java, SQL
-* Formatting: LateX, Markdown
+* Other: LateX, Markdown
 
-{% comment %}
-Service and leadership
+Service
 --------------- 
-* Currently signed in to 43 different slack teams
-{% endcomment %}
+* Stanford Ceramics Club: Kiln Firing Team & Glaze Testing Team
