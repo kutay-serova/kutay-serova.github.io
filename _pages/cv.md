@@ -39,11 +39,14 @@ Projects
 ---------------
 * Dec, 2018: Human Vision Reconstruction with 3D Convolutional Neural Networks
   * Team Members: Kaan Dönbekci
-  * Using fMRI data from BOLD 5000 to reconstruct visual stimuli
+  * Using fMRI data from BOLD 5000 dataset to reconstruct visual stimuli
 
 Grants
 ---------------
-* Stanford Vice Provost of Undergraduate Education (VPUE) Summer Research Grant
+* Summer, 2017: Stanford Vice Provost of Undergraduate Education (VPUE) Summer Research Grant
+{% comment %}
+* Feb, 2019: Undergraduate Advising and Research (UAR) Conference Grant
+{% endcomment %}
 
 {% comment %}
 Teaching
@@ -65,16 +68,22 @@ Conferences
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>  
 
+Programming Experience
+---------------
+* Languages: Python, C++, Java
+* Statical: R
+* Formatting: LateX, Markdown
+* Neural Networks
+* A.I. Methods & Machine Learning
+
 Languages
 --------------- 
 * Native: Turkish
 * Advanced: Kazakh, Japanese
 * Intermediate: German
 * Beginner: Yoruba
-* Statistical: R
-* Programming: Python, C++, Java, SQL
-* Other: LateX, Markdown
 
 Service
 --------------- 
 * Stanford Ceramics Club: Kiln Firing Team & Glaze Testing Team
+* Stanford Syntax & Morphology Circle (SMircle) Reading Group Member
