@@ -82,11 +82,12 @@ analytics:
 author:
   name             : "Kutay Serova"
   avatar           : "profile.JPG"
+  ipa              : "[ku̥ˈtʰaj ˈseɾova]"
   bio              : "Linguist, Syntactician, Potter"
   location         : "Stanford University, CA"
   employer         :
   googlescholar    : 
-  email            :
+  email            : "kserova@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
