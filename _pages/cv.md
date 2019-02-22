@@ -44,9 +44,7 @@ Projects
 Grants
 ---------------
 * Summer, 2017: Stanford Vice Provost of Undergraduate Education (VPUE) Summer Research Grant
-{% comment %}
-* Feb, 2019: Undergraduate Advising and Research (UAR) Conference Grant
-{% endcomment %}
+* Feb, 2019: Undergraduate Advising and Research (UAR) Conference Grant -- Tu+4 @ NYU
 
 {% comment %}
 Teaching
