@@ -38,6 +38,7 @@ Work experience
 Teaching Experience
 ---------------
 * Winter Quarter, 2018: Grader
+  * Stanford University
   * LINGUIST 130A/230A: Introduction to Semantics & Pragmatics
   * Grading homework and exams
 
@@ -53,7 +54,7 @@ Grants
 * Feb, 2019: Undergraduate Advising and Research (UAR) Conference Grant -- Tu+4 @ NYU
 
 {% comment %}
-Teaching
+Teaching Experience
 --------------- 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
