@@ -35,6 +35,12 @@ Work experience
 * Jul, 2016 - Jun, 2016: Sculptor
   * Taş Dünyası -- Istanbul, Turkey.
 
+Teaching Experience
+---------------
+* Winter Quarter, 2018: Grader
+  * LINGUIST 130A/230A: Introduction to Semantics & Pragmatics
+  * Grading homework and exams
+
 Projects
 ---------------
 * Dec, 2018: Human Vision Reconstruction with 3D Convolutional Neural Networks
@@ -78,7 +84,7 @@ Languages
 --------------- 
 * Native: Turkish
 * Advanced: Kazakh, Japanese
-* Intermediate: German
+* Intermediate: German, Uyghur
 * Beginner: Yoruba
 
 Service
