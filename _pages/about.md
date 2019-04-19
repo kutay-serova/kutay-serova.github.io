@@ -17,6 +17,7 @@ I am a linguist, a syntactician, and a potter.
 * Syntax-Prosody Inteface
 * Head-Movement
 * Ellipsis
+* Agreement
 * Turkic Linguistics
 
 ## Outside Interest
@@ -26,3 +27,5 @@ I am a linguist, a syntactician, and a potter.
 * Wood-fired Pottery
 * Japanese & Korean Pottery
 	* Favorite styles: Shino-yaki, Bucheong ware
+* 3D Printing
+* Dungeons & Dragons

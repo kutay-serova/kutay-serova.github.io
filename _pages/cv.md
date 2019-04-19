@@ -78,12 +78,15 @@ Programming Experience
 * Languages: Python, C++, Java
 * Statical: R
 * Formatting: LateX, Markdown
+* Web: jekyll
 * Neural Networks
 * A.I. Methods & Machine Learning
+* NLU using Neural Networks
 
 Languages
 --------------- 
 * Native: Turkish
+* Fluent: English
 * Advanced: Kazakh, Japanese
 * Intermediate: German, Uyghur
 * Beginner: Yoruba
