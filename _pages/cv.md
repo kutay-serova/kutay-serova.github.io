@@ -51,7 +51,8 @@ Projects
 Grants
 ---------------
 * Summer, 2017: Stanford Vice Provost of Undergraduate Education (VPUE) Summer Research Grant
-* Feb, 2019: Undergraduate Advising and Research (UAR) Conference Grant -- Tu+4 @ NYU
+* Feb, 2019: Stanford Undergraduate Advising & Research (UAR) Conference Grant -- Tu+4 @ NYU
+* Summer, 2019: Stanford UAR Major Research Grant -- Honor's Thesis Research
 
 {% comment %}
 Teaching Experience
@@ -81,7 +82,7 @@ Programming Experience
 * Web: jekyll
 * Neural Networks
 * A.I. Methods & Machine Learning
-* NLU using Neural Networks
+* NLP and NLU using Neural Networks
 
 Languages
 --------------- 
@@ -95,3 +96,4 @@ Service
 --------------- 
 * Stanford Ceramics Club: Kiln Firing Team & Glaze Testing Team
 * Stanford Syntax & Morphology Circle (SMircle) Reading Group Member
+* Stanford Archery Team Recruit
