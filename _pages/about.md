@@ -13,9 +13,9 @@ redirect_from:
 I am a linguist, a syntactician, and a potter.
 
 ## Linguistic Interests 
-* Clausal Structure
+* Clausal Syntax
 * Syntax-Prosody Inteface
-* Head-Movement
+* Morphosyntax
 * Ellipsis
 * Agreement
 * Turkic Linguistics
@@ -27,5 +27,6 @@ I am a linguist, a syntactician, and a potter.
 * Wood-fired Pottery
 * Japanese & Korean Pottery
 	* Favorite styles: Shino-yaki, Bucheong ware
+* Decorative Ropework
 * 3D Printing
 * Dungeons & Dragons
