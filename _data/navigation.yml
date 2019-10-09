@@ -4,5 +4,8 @@ main:
   - title: "Presentations"
     url: /talks/    
     
+  - title: "Publications"
+    url: /publications/
+
   - title: "CV"
     url: /cv/

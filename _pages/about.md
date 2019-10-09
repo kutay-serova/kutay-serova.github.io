@@ -18,7 +18,9 @@ I am a linguist, a syntactician, and a potter.
 * Morphosyntax
 * Ellipsis
 * Agreement
+* Agglutination
 * Turkic Linguistics
+* Experimental Syntax
 
 ## Outside Interest
 * Tea
@@ -26,7 +28,8 @@ I am a linguist, a syntactician, and a potter.
 	* Favorite Genuses: Crassula, Haworthia, Gasteria
 * Wood-fired Pottery
 * Japanese & Korean Pottery
-	* Favorite styles: Shino-yaki, Bucheong ware
-* Decorative Ropework
+	* Favorite styles: Shino-yaki, Bucheong wares
+* Decorative Knotwork
+* Archery
 * 3D Printing
 * Dungeons & Dragons

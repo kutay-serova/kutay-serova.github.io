@@ -47,6 +47,9 @@ Projects
 * Dec, 2018: Human Vision Reconstruction with 3D Convolutional Neural Networks
   * Team Members: Kaan Dönbekci
   * Using fMRI data from BOLD 5000 dataset to reconstruct visual stimuli
+* May, 2019: Predicting Yelp Reviews using Convolutional Neural Networks
+  * Team Members: Kaan Dönbekci, Tyler Su
+  * Using convolutions on word-embedding grids and topic extraction techniques to predict Yelp review ratings.
 
 Grants
 ---------------
@@ -61,12 +64,13 @@ Teaching Experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+{% endcomment %} 
+
 Publications
 --------------- 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-{% endcomment %} 
 
 Conferences
 --------------- 
@@ -94,6 +98,6 @@ Languages
 
 Service
 --------------- 
-* Stanford Ceramics Club: Kiln Firing Team & Glaze Testing Team
+* Stanford Ceramics Club: Member & Kiln Firing Team
 * Stanford Syntax & Morphology Circle (SMircle) Reading Group Member
 * Stanford Archery Team Recruit
