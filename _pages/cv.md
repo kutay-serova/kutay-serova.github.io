@@ -13,7 +13,8 @@ redirect_from:
 
 Education
 --------------- 
-* B.A. Candidate in Linguistics, Stanford University, 2020
+* B.A.H. Candidate in Linguistics, Stanford University, 2020
+* Highschool Diploma, Robert College, Istanbul, Turkey, 2016
 
 Work experience
 --------------- 
@@ -41,6 +42,10 @@ Teaching Experience
   * Stanford University
   * LINGUIST 130A/230A: Introduction to Semantics & Pragmatics
   * Grading homework and exams
+* (*future*) Spring Quarter, 2019: Ceramics Workshop
+  * Stanford University
+  * Co-curricular Workshop for ARTHIST 100N: The Artist in Ancient Greek Society
+  * Teaching basics of wheel-throwing to complement curriculum regarding Ancient Greek Pottery
 
 Projects
 ---------------
@@ -50,8 +55,11 @@ Projects
 * May, 2019: Predicting Yelp Reviews using Convolutional Neural Networks
   * Team Members: Kaan Dönbekci, Tyler Su
   * Using convolutions on word-embedding grids and topic extraction techniques to predict Yelp review ratings.
+* 2018-ongoing: Coordination, Head-Movement, and Gapping in Turkish
+  * Undergraduate Honors Thesis Topic
+  * Studying the consequences of the Turkish predicate structure and different sizes of possible coordination on the structure and mechanisms generating gapping-like strings. Methods include corpora, in-person acceptability judgments, and online experiments.
 
-Grants
+Grants, Honors & Awards
 ---------------
 * Summer, 2017: Stanford Vice Provost of Undergraduate Education (VPUE) Summer Research Grant
 * Feb, 2019: Stanford Undergraduate Advising & Research (UAR) Conference Grant -- Tu+4 @ NYU
@@ -78,13 +86,21 @@ Conferences
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>  
 
+Service & Managerial Roles
+--------------- 
+* 2017-2020: Stanford Ceramics Club -- Member & Kiln Firing Team
+* 2017-2020: Stanford Syntax & Morphology Circle (SMircle) -- Discussion Group Member
+* 2019-2020: Stanford Archery Team -- Recruit & Level-1 Coach
+* 2015-2016: Robert College (Highschool) Japanese Language & Culture Club -- Co-founder & Language Instructor
+* 2011-2014: Art Tutoring in Koruncuk Foundation's *Bolluca Orphaned Children's Village* with Artist Nesrin Çalıka -- Istanbul, Turkey
+
 Programming Experience
 ---------------
 * Languages: Python, C++, Java
 * Statical: R
 * Formatting: LateX, Markdown
-* Web: jekyll
-* Neural Networks
+* Web: jekyll, html
+* Neural & Convolutional Networks (Keras, Tensorflow)
 * A.I. Methods & Machine Learning
 * NLP and NLU using Neural Networks
 
@@ -95,9 +111,3 @@ Languages
 * Advanced: Kazakh, Japanese
 * Intermediate: German, Uyghur
 * Beginner: Yoruba
-
-Service
---------------- 
-* Stanford Ceramics Club: Member & Kiln Firing Team
-* Stanford Syntax & Morphology Circle (SMircle) Reading Group Member
-* Stanford Archery Team Recruit
