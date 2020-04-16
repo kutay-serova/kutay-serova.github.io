@@ -6,15 +6,30 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{% include base_path %}
+
 
 <img src="/images/agave_1000width.JPG" alt="agave parryi" width="750">
 
-{% include base_path %}
+[ <a href="/files/2020_APRIL_academic_CV.pdf">pdf</a> ]
+
+{% comment %}
+<embed src="/files/2020_APRIL_academic_CV.pdf" type=”application/pdf” width=”100%” height=”100%”>
 
 Education
 --------------- 
-* B.A.H. Candidate in Linguistics, Stanford University, 2020
-* Highschool Diploma, Robert College, Istanbul, Turkey, 2016
+* B.A.H. Candidate in Linguistics, Stanford University, 2016--2020
+* Highschool Diploma, Robert College, Istanbul, Turkey, 2011--2016
+* Harvard Summer Program, 2015
+
+Research Interests
+---------------
+* Theoretical Syntax
+* Morphosyntax
+* Syntax Interfaces
+* Ellipsis
+* Agglutination
+* Turkic Languages
 
 Work experience
 --------------- 
@@ -23,47 +38,42 @@ Work experience
   * Description: Machine Learning, Supervised Learning, Experiment Design 
 
 * May, 2016 - Jun, 2018: Research Assistant
-  * Language & Cognition Lab, Stanford University
-  * Advisor: Masoud Jasbi
-  * Project Description: Study of the acquisition of connectives and disjunctives: 'and' and 'or'
-  * Job Description: Corpus Linguistics, Annotation, and Data Analysis
+  * Language & Cognition Lab, Stanford University.
+  * Primary Investigator: Masoud Jasbi
+  * Project Description: Study of the acquisition of connectives and disjunctives: 'and' & 'or'
+  * Description: Corpus Linguistics, Annotation, and Data Analysis
 
 * Aug, 2016 - Sep, 2016: Intern
   * Innova IT Solutions -- Istanbul, Turkey.
-  * Software Development at the Application Development Team
+  * Software Development in the Application R&D Team
   * Keywords: Graph Databases, Docker Containers, Microservice Architecture
 
-* Jul, 2016 - Jun, 2016: Sculptor
-  * Taş Dünyası -- Istanbul, Turkey.
+* Jun, 2016 - Jul, 2016: Sculptor Apprentice
+  * Taş Dünyası (*Stone World*) -- Istanbul, Turkey.
 
 Teaching Experience
 ---------------
-* Winter Quarter, 2018: Grader
-  * Stanford University
-  * LINGUIST 130A/230A: Introduction to Semantics & Pragmatics
-  * Grading homework and exams
-* (*future*) Spring Quarter, 2019: Ceramics Workshop
-  * Stanford University
-  * Co-curricular Workshop for ARTHIST 100N: The Artist in Ancient Greek Society
-  * Teaching basics of wheel-throwing to complement curriculum regarding Ancient Greek Pottery
+* Winter Quarter, 2018. *Stanford*: Grader for LINGUIST 130A/230A: Introduction to Semantics & Pragmatics
+* (*future*) Spring Quarter, 2019. *Stanford*: Ceramics Workshop for ARTHIST 100N: The Artist in Ancient Greek Society
 
 Projects
 ---------------
-* Dec, 2018: Human Vision Reconstruction with 3D Convolutional Neural Networks
-  * Team Members: Kaan Dönbekci
-  * Using fMRI data from BOLD 5000 dataset to reconstruct visual stimuli
-* May, 2019: Predicting Yelp Reviews using Convolutional Neural Networks
+* 2018-ongoing: Coordination, Head-Movement, and Gapping in Turkish
+  * Undergraduate Honors Thesis
+  * Consequences of the Turkish predicate structure and different sizes of possible coordination on mechanisms generating gapping-like strings.
+  * Methods: corpora, in-person acceptability judgments, online experiments.
+* 2019, May: Predicting Yelp Reviews using Convolutional Neural Networks
   * Team Members: Kaan Dönbekci, Tyler Su
   * Using convolutions on word-embedding grids and topic extraction techniques to predict Yelp review ratings.
-* 2018-ongoing: Coordination, Head-Movement, and Gapping in Turkish
-  * Undergraduate Honors Thesis Topic
-  * Studying the consequences of the Turkish predicate structure and different sizes of possible coordination on the structure and mechanisms generating gapping-like strings. Methods include corpora, in-person acceptability judgments, and online experiments.
+* 2018, Dec: Human Vision Reconstruction with 3D Convolutional Neural Networks
+  * Team Members: Kaan Dönbekci
+  * Using fMRI data from BOLD 5000 dataset to reconstruct visual stimuli
 
 Grants, Honors & Awards
 ---------------
-* Summer, 2017: Stanford Vice Provost of Undergraduate Education (VPUE) Summer Research Grant
-* Feb, 2019: Stanford Undergraduate Advising & Research (UAR) Conference Grant -- Tu+4 @ NYU
-* Summer, 2019: Stanford UAR Major Research Grant -- Honor's Thesis Research
+* 2019, Summer: Stanford UAR Major Research Grant -- Honor's Thesis Research
+* 2019, Feb: Stanford Undergraduate Advising & Research (UAR) Conference Grant -- Tu+4 @ NYU
+* 2017, Summer: Stanford Vice Provost of Undergraduate Education (VPUE) Summer Research Grant
 
 {% comment %}
 Teaching Experience
@@ -108,6 +118,8 @@ Languages
 --------------- 
 * Native: Turkish
 * Fluent: English
-* Advanced: Kazakh, Japanese
-* Intermediate: German, Uyghur
+* Advanced: Kazakh, Japanese (JLPT N2)
+* Intermediate: German (B1), Uyghur
 * Beginner: Yoruba
+
+{% endcomment %}

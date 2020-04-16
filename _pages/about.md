@@ -10,11 +10,10 @@ redirect_from:
 
 <img src="/images/redwood.JPG" alt="burnt redwood trunk" width="750"/>
 
-I am a linguist, a syntactician, and a potter.
+I am a Linguistics B.A.H. student at Stanford University, a syntactician in the making, amateur go player, and a potter.
 
 ## Linguistic Interests 
-* Clausal Syntax
-* Syntax-Prosody Inteface
+* Theoretical Syntax
 * Morphosyntax
 * Ellipsis
 * Agreement
@@ -27,9 +26,8 @@ I am a linguist, a syntactician, and a potter.
 * Succulents
 	* Favorite Genuses: Crassula, Haworthia, Gasteria
 * Wood-fired Pottery
-* Japanese & Korean Pottery
 	* Favorite styles: Shino-yaki, Bucheong wares
 * Decorative Knotwork
 * Archery
+* Go
 * 3D Printing
-* Dungeons & Dragons
