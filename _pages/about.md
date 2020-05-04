@@ -29,5 +29,6 @@ I am a Linguistics B.A.H. student at Stanford University, a syntactician in the 
 	* Favorite styles: Shino-yaki, Bucheong wares
 * Decorative Knotwork
 * Archery
+	* Flavor: Olympic Recurve, Thumb-release Horsebow
 * Go
 * 3D Printing
