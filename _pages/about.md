@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="/images/redwood.JPG" alt="burnt redwood trunk" width="750"/>
 
-I am a Linguistics B.A.H. student at Stanford University, a syntactician in the making, amateur go player, and a potter.
+I am a Linguistics PhD student at the University of Chicago, a syntactician in the making, very amateur go player, and a dabbler of handcrafts.
 
 ## Linguistic Interests 
 * Theoretical Syntax
@@ -18,6 +18,7 @@ I am a Linguistics B.A.H. student at Stanford University, a syntactician in the 
 * Ellipsis
 * Agreement
 * Agglutination
+* Linearization
 * Turkic Linguistics
 * Experimental Syntax
 

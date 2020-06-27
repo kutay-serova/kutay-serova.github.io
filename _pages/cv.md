@@ -11,13 +11,14 @@ redirect_from:
 
 <img src="/images/agave_1000width.JPG" alt="agave parryi" width="750">
 
-[ <a href="/files/2020_APRIL_academic_CV.pdf">pdf</a> ]
+[ <a href="/files/2020_JUNE_academic_CV.pdf">pdf</a> ]
 
 {% comment %}
-<embed src="/files/2020_APRIL_academic_CV.pdf" type=”application/pdf” width=”100%” height=”100%”>
+<embed src="/files/2020_JUNE_academic_CV.pdf" type=”application/pdf” width=”100%” height=”100%”>
 
 Education
 --------------- 
+* PhD Student in Linguistics, University of Chicago, 2020--ongoing
 * B.A.H. Candidate in Linguistics, Stanford University, 2016--2020
 * Highschool Diploma, Robert College, Istanbul, Turkey, 2011--2016
 * Harvard Summer Program, 2015
