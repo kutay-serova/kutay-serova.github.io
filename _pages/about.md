@@ -44,4 +44,4 @@ I am interested in researching the systematic grammatical underpinnings of cross
 ## Some bits and bobs just for fun
 * Autobiography blurb attempt in Middle Egyptian\
 (feedback and corrections welcome)
-<img src="/images/hieroglyph_autobio.PNG" alt="short bio in Middle Egyptian"/>
+<img src="/images/hieroglyph_autobiography.PNG" alt="short bio in Middle Egyptian"/>
