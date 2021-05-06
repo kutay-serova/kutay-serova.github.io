@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Main Page"
 title_separator          : "-"
 name                     : &name "Kutay Serova"
-description              : &description "A personal website."
+description              : &description "A personal website about a linguistics person."
 url                      : https://kutay-serova.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kutay-serova/kutay-serova.github.io"
@@ -170,17 +170,16 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -218,7 +217,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
       comment: false
 
 # Sass/SCSS

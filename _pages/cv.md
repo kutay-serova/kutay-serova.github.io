@@ -1,10 +1,13 @@
 ---
 layout: archive
 title: "CV"
+excerpt: "Curriculum Vitae, or Résumé if you will"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv.html
+  - /resume/
+  - /resume.html
 ---
 {% include base_path %}
 

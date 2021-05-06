@@ -1,8 +1,13 @@
 ---
 layout: archive
 title: "Research"
+excerpt: "Information on my previous and current research"
 permalink: /research/
 author_profile: true
+redirect_from:
+  - /research.html
+  - /work/
+  - /work.html
 ---
 
 <img src="/images/opuntia_1000width.JPG" alt="opuntia cactus with flower buds" width="750">
@@ -14,7 +19,8 @@ Proceedings Articles
 
 Posters & Presentations
 ------------
-* Serova, Kutay. (2019). *On the Interaction of Gapping and Head-movement in Turkish Coordination*. Poster presentation at the 4th Workshop on Turkic and Languages in Contact with Turkic (Tu+4), NYU, NY.
+* <a href='/files/Tu_4_Handout_FINAL.pdf'>
+Serova, Kutay. (2019). *On the Interaction of Gapping and Head-movement in Turkish Coordination*. Poster presentation at the 4th Workshop on Turkic and Languages in Contact with Turkic (Tu+4), NYU, NY.
 * Serova, Kutay. (2018). *Turkish Verb Complex and Polar Question Marker Interaction*. Talk at Southern California Undergraduate Linguistics Conference (SCULC), UCLA, CA.
 
 {% comment %}
