@@ -17,29 +17,29 @@ redirect_from:
 I am a Linguistics PhD student at the University of Chicago, morpho-syntactician in the making, very amateur go player, and an enthusiastic dabbler of handcrafts.
 
 ## Linguist's Statement
-I am interested in researching the systematic grammatical underpinnings of cross-linguistic variation, specifically with regards to how Syntax and its interfaces with morphological, phonological, and semantic systems facilitate and constrain the range of cross-linguistic variety in phenomena such as affixation and cliticization mechanisms, the availability of different types of ellipsis, the realization of agreement, and linearization of syntactic structures.
+I am interested in researching the systematic grammatical underpinnings of cross-linguistic variation, specifically with regards to how syntax and its interfaces with morphological, phonological, and semantic systems facilitate and constrain the range of cross-linguistic variety in phenomena such as affixation and cliticization mechanisms, the availability of different types of ellipsis, the realization of agreement and concord, and linearization of syntactic structures.
 
 ## Linguistic Research Interests 
 * Syntax, Morphology, Morphosyntax
 * Syntax Interfaces
 	* Ellipsis (VP-E, Sluicing, Gapping)
-	* Agreement
+	* Agreement & Concord
+	* Suppletion and Allomorphy
 	* Agglutination
 	* Linearization
 * Turkic Linguistics
 * Experimental Syntax
 
-## Outside Interests
+## Non-Academic Interests
 * Tea
-* Succulents
-	* Favorite Genuses: Crassula, Haworthia, Gasteria
+* Succulents & Drought Resistant Plants
+	* Favorite Genuses: Crassula, Haworthia, Gasteria, Adenium
 * Wood-fired Pottery
 	* Favorite Styles: Shino-yaki, Bucheong wares
-* Decorative Knotwork
 * Archery
-	* Flavor: Olympic Recurve, Thumb-release Horsebow
-* Go
-* 3D Printing
+	* Flavor: Olympic Recurve, Thumb-release Asiatic Bows
+* Go/Baduk/Weiqi
+
 
 ## Some bits and bobs just for fun
 * Autobiography blurb attempt in Middle Egyptian\
