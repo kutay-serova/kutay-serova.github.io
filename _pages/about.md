@@ -32,9 +32,9 @@ I am interested in researching the systematic grammatical underpinnings of cross
 
 ## Non-Academic Interests
 * Tea
-* Succulents & Drought Resistant Plants
-	* Favorite Genuses: Crassula, Haworthia, Gasteria, Adenium
-* Wood-fired Pottery
+* Plants
+	* Favorite Genuses: Crassula, Haworthia, Gasteria, Adenium, Alocasia
+* Pottery
 	* Favorite Styles: Shino-yaki, Bucheong wares
 * Archery
 	* Flavor: Olympic Recurve, Thumb-release Asiatic Bows
