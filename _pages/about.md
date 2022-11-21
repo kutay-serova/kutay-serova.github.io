@@ -14,7 +14,7 @@ redirect_from:
 
 <img src="/images/redwood.JPG" alt="burnt redwood trunk" width="750"/>
 
-I am a Linguistics PhD student at the University of Chicago, morpho-syntactician in the making, very amateur go player, and an enthusiastic dabbler of handcrafts.
+I am a Linguistics PhD student at the University of Chicago, morpho-syntactician, avid language learner, very amateur go player, and an enthusiastic dabbler of handcrafts.
 
 ## Linguist's Statement
 I am interested in researching the systematic grammatical underpinnings of cross-linguistic variation, specifically with regards to how syntax and its interfaces with morphological, phonological, and semantic systems facilitate and constrain the range of cross-linguistic variety in phenomena such as affixation and cliticization mechanisms, the availability of different types of ellipsis, the realization of agreement and concord, and linearization of syntactic structures.
@@ -30,8 +30,8 @@ I am interested in researching the systematic grammatical underpinnings of cross
 * Turkic Linguistics
 * Experimental Syntax
 
-## Non-Academic Interests
-* Tea
+## Outside of Academia
+* Tea Appreciation
 * Plants
 	* Favorite Genuses: Crassula, Haworthia, Gasteria, Adenium, Alocasia
 * Pottery
@@ -44,5 +44,5 @@ I am interested in researching the systematic grammatical underpinnings of cross
 ## Some bits and bobs just for fun
 * Autobiography blurb attempt in Middle Egyptian\
 (feedback and corrections welcome)
-<img src="/images/hieroglyph_autobiography.PNG" alt="short bio in Middle Egyptian"/>
+<img src="/images/egyptian_short_bio_2022NOV001.PNG" alt="short bio in Middle Egyptian"/>
 * An Introductory Guide to LaTeX for Linguists \[<a href="/files/LaTeX_for_Linguists_20211123.zip">zip</a>\|<a href="/files/LaTeX_for_Linguists_20211123.pdf">pdf</a>\]

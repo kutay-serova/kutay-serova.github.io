@@ -19,9 +19,11 @@ Proceedings Articles
 
 Posters & Presentations
 ------------
+* <a href='/files/WAFL_16_presentation_v2.pdf'>
+Serova, Kutay. 2022. *Right Edge Restriction is non-uniform in Turkish*. Talk at the 16th Workshop on Altaic Formal Linguistics (WAFL 16), Rutgers University (online).
 * <a href='/files/Tu_4_Handout_FINAL.pdf'>
-Serova, Kutay. (2019). *On the Interaction of Gapping and Head-movement in Turkish Coordination*. Poster presentation at the 4th Workshop on Turkic and Languages in Contact with Turkic (Tu+4), NYU, NY.
-* Serova, Kutay. (2018). *Turkish Verb Complex and Polar Question Marker Interaction*. Talk at Southern California Undergraduate Linguistics Conference (SCULC), UCLA, CA.
+Serova, Kutay. 2019. *On the Interaction of Gapping and Head-movement in Turkish Coordination*. Poster presentation at the 4th Workshop on Turkic and Languages in Contact with Turkic (Tu+4), NYU, NY.
+* Serova, Kutay. 2018. *Turkish Verb Complex and Polar Question Marker Interaction*. Talk at Southern California Undergraduate Linguistics Conference (SCULC), UCLA, CA.
 
 {% comment %}
 {% if site.talkmap_link == true %}
