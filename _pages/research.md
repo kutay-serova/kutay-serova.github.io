@@ -14,7 +14,7 @@ redirect_from:
 
 Proceedings Articles
 ------------
-* Serova, Kutay. *forthcoming*. Right Edge Restriction is Non-Uniform: Evidence from Turkish. In *Proceedings of the 16th Workshop on Altaic Formal Linguistics*, 16(1).
+* <a href='/files/WAFL_16_manuscript.pdf'>Serova, Kutay. *forthcoming*. Right Edge Restriction is Non-Uniform: Evidence from Turkish. In *Proceedings of the 16th Workshop on Altaic Formal Linguistics*, 16(1).</a>
 * <a href='https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/4584'>Serova, Kutay. 2019. Head Movement, Suspended Affixation, and the Turkish Clausal Spine. In *Proceedings of the Workshop on Turkic and Languages in Contact with Turkic*, 4(1), pp. 89–103. Doi: 10.3765/ptu.v4i1.4584.</a>
 
 
