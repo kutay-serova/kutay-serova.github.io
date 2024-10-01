@@ -14,7 +14,7 @@ redirect_from:
 
 <img src="/images/redwood.JPG" alt="burnt redwood trunk" width="750"/>
 
-I am a 4th year Linguistics PhD Candidate at the University of Chicago, morpho-syntactician, avid language learner, amateur go player, and an enthusiastic dabbler of handcrafts.
+I am a 5th year Linguistics PhD Candidate at the University of Chicago, morpho-syntactician, avid language learner, amateur go player, and an enthusiastic dabbler of handcrafts.
 
 ## Linguist's Statement
 I am interested in researching the systematic grammatical underpinnings of cross-linguistic variation, specifically with regards to how syntax and its interfaces with morphological, phonological, and semantic systems facilitate and constrain the range of cross-linguistic variety in phenomena such as affixation and cliticization mechanisms, the availability of different types of ellipsis, the realization of agreement and concord, and linearization of syntactic structures.
@@ -39,7 +39,6 @@ I am interested in researching the systematic grammatical underpinnings of cross
 * Archery
 	* Flavor: Olympic Recurve, Thumb-release Asiatic Bows
 * Go/Baduk/Weiqi
-
 
 ## Some bits and bobs just for fun
 * Autobiography blurb attempt in Middle Egyptian\
