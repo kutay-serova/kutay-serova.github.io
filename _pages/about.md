@@ -14,7 +14,7 @@ redirect_from:
 
 <img src="/images/redwood.JPG" alt="burnt redwood trunk" width="750"/>
 
-I am a 5th year Linguistics PhD Candidate at the University of Chicago, morpho-syntactician, avid language learner, amateur go player, and an enthusiastic dabbler of handcrafts.
+I am a 6th year Linguistics PhD Candidate at the University of Chicago, morpho-syntactician, avid language learner, amateur go player, and an enthusiastic dabbler of handcrafts.
 
 ## Linguist's Statement
 I am interested in researching the systematic grammatical underpinnings of cross-linguistic variation, specifically with regards to how syntax and its interfaces with morphological, phonological, and semantic systems facilitate and constrain the range of cross-linguistic variety in phenomena such as affixation and cliticization mechanisms, the availability of different types of ellipsis, the realization of agreement and concord, and linearization of syntactic structures.
@@ -22,13 +22,12 @@ I am interested in researching the systematic grammatical underpinnings of cross
 ## Linguistic Research Interests 
 * Syntax, Morphology, Morphosyntax
 * Syntax Interfaces
-	* Ellipsis (VP-E, Sluicing, Gapping)
+	* Ellipsis (VP-E, Sluicing, Gapping, Right Node Raising)
 	* Agreement & Concord
 	* Suppletion and Allomorphy
 	* Agglutination
 	* Linearization
 * Turkic Linguistics
-* Experimental Syntax
 
 ## Outside of Academia
 * Tea
