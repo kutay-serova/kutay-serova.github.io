@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Main Page"
 title_separator          : "-"
 name                     : &name "Kutay Serova"
-description              : &description "A personal website about a linguistics person."
+description              : &description "A personal website belonging to a Linguistic."
 url                      : https://kutay-serova.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kutay-serova/kutay-serova.github.io"
@@ -57,10 +57,10 @@ author:
   avatar           : "profile.JPG"
   ipa              : "[ku̥ˈtʰaj ˈseɾova]"
   bio              : "Linguist, Morphosyntactician, Curious about stuff"
-  location         : "Chicago, IL"
-  employer         :
+  location         :
+  employer         : "University of Chicago"
   googlescholar    : "https://scholar.google.com/citations?user=hFSS-MYAAAAJ"
-  email            : "kserova@uchicago.edu"
+  email            : "kserova (æt) uchicago (dot) edu"
   researchgate     : "https://www.researchgate.net/profile/Kutay_Serova"
   uri              :
   bitbucket        :
@@ -75,7 +75,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "kutay-serova"
-  orcid            :
+  orcid            : "https://orcid.org/0009-0007-5029-0113"
   pinterest        :
   soundcloud       :
   stackoverflow    :

@@ -2,6 +2,9 @@
 permalink: /terms/
 title: "Terms and Privacy Policy"
 modified: 2016-06-06
+header:
+  overlay_image: redwood.JPG
+  overlay_filter: "rgba(26, 58, 92, 0.58)"
 ---
 
 {% include base_path %}

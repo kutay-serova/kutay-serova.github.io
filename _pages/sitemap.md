@@ -3,6 +3,9 @@ layout: archive
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
+header:
+  overlay_image: redwood.JPG
+  overlay_filter: "rgba(26, 58, 92, 0.58)"
 ---
 
 {% include base_path %}

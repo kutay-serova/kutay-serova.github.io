@@ -222,15 +222,17 @@
   a {
     display: block;
     margin-bottom: 5px;
-    padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding: 2px 5px;
+    border-radius: $border-radius;
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+    transition: $global-transition;
 
     &:hover {
-      text-decoration: underline;
+      background-color: mix(#fff, $info-color, 85%);
+      color: $link-color-hover;
+      text-decoration: none;
     }
   }
 }

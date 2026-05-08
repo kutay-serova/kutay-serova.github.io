@@ -1,8 +1,11 @@
 ---
 permalink: /
 title: "About"
-excerpt: "Who am I?"
+excerpt: "PhD Candidate in Linguistics · University of Chicago"
 author_profile: true
+header:
+  overlay_image: redwood.JPG
+  overlay_filter: "rgba(26, 58, 92, 0.58)"
 redirect_from: 
   - /about/
   - /about.html
@@ -12,37 +15,24 @@ redirect_from:
   - /homepage.html
 ---
 
-<img src="/images/redwood.JPG" alt="burnt redwood trunk" width="750"/>
+I am a PhD Candidate in Linguistics at the University of Chicago.
 
-I am a 6th year Linguistics PhD Candidate at the University of Chicago, morpho-syntactician, avid language learner, amateur go player, and an enthusiastic dabbler of handcrafts.
+My dissertation, *On the Derivational Routes to Shared Exponence*, investigates structural constraints on Right Edge Sharing phenomena, which comprises of Right Node Raising, Backwards Gapping, and Suspended Affixation.
 
-## Linguist's Statement
-I am interested in researching the systematic grammatical underpinnings of cross-linguistic variation, specifically with regards to how syntax and its interfaces with morphological, phonological, and semantic systems facilitate and constrain the range of cross-linguistic variety in phenomena such as affixation and cliticization mechanisms, the availability of different types of ellipsis, the realization of agreement and concord, and linearization of syntactic structures.
+My research interests encompass syntactic and morphological theory and their interfaces (Morphophonology, Syntax-Semantics Interface). Recently, my work focuses on the following topics:
 
-## Linguistic Research Interests 
-* Syntax, Morphology, Morphosyntax
-* Syntax Interfaces
-	* Ellipsis (VP-E, Sluicing, Gapping, Right Node Raising)
-	* Agreement & Concord
-	* Suppletion and Allomorphy
-	* Agglutination
-	* Linearization
-* Turkic Linguistics
+* Multiple Exponence & Ellipsis: Sluicing, Gapping, Suspended Affixation, Right Node Raising
+* Allomorphy: Suppletion, Morphophonological Alternations, Domain Effects
+* Crosslinguistic Variation: Historical/family-internal variation within Turkic; Comparative Syntax within Austronesian (Samoan, Hawaiian, Eastern Javanese)
+* The Post-Syntax: Allomorphy, Vocabulary Insertion, Identity Conditions, Linearization
 
 ## Outside of Academia
-* Tea
-* Plants
-	* Favorite Genuses: Crassula, Haworthia, Gasteria, Adenium, Alocasia
-* Sewing & Sashiko
-* Pottery
-	* Favorite Styles: Shino-yaki, Bucheong wares, wood-fired pottery in general
-* Archery
-	* Flavor: Olympic Recurve, Thumb-release Asiatic Bows
-* Go/Baduk/Weiqi
 
-## Some bits and bobs just for fun
-* Here is a Hitomezashi Pattern generator for drafting embroidery patterns for Sashiko: <a href="https://kutay-serova.github.io/hitomezashi-pattern-generator/">Hitomezashi Pattern Generator</a>
-* Autobiography blurb attempt in Middle Egyptian\
-(feedback and corrections welcome)
+Tea, plants (particularly *Crassula*, *Haworthia*, *Gasteria*, *Adenium*, and *Alocasia*), sewing (seamstry and sashiko), pottery, and Go (Jp. 囲碁, Kor. 바둨, Man. 围棋).
+
+---
+
+## Miscellaneous Stuff
+* Here is a Hitomezashi Pattern Generator app I made for Sashiko embroidery pattern drafting: <a href="https://kutay-serova.github.io/hitomezashi-pattern-generator/">Hitomezashi Pattern Generator</a>
+* Autobiography blurb attempt in Middle Egyptian (feedback and corrections welcome)\
 <img src="/images/egyptian_short_bio_2022NOV.jpeg" alt="short bio in Middle Egyptian"/>
-* An Introductory Guide to LaTeX for Linguists \[<a href="/files/misc/LaTeX_for_Linguists_20211123.zip">zip</a>\|<a href="/files/misc/LaTeX_for_Linguists_20211123.pdf">pdf</a>\] (please download .tex file to see the LaTeX code and preamble)
