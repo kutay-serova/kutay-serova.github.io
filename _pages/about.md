@@ -33,6 +33,7 @@ I am interested in researching the systematic grammatical underpinnings of cross
 * Tea
 * Plants
 	* Favorite Genuses: Crassula, Haworthia, Gasteria, Adenium, Alocasia
+* Sewing & Sashiko
 * Pottery
 	* Favorite Styles: Shino-yaki, Bucheong wares, wood-fired pottery in general
 * Archery
@@ -40,6 +41,7 @@ I am interested in researching the systematic grammatical underpinnings of cross
 * Go/Baduk/Weiqi
 
 ## Some bits and bobs just for fun
+* Here is a Hitomezashi Pattern generator for drafting embroidery patterns for Sashiko: <a href="https://kutay-serova.github.io/hitomezashi-pattern-generator/">Hitomezashi Pattern Generator</a>
 * Autobiography blurb attempt in Middle Egyptian\
 (feedback and corrections welcome)
 <img src="/images/egyptian_short_bio_2022NOV.jpeg" alt="short bio in Middle Egyptian"/>
