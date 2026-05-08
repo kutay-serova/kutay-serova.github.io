@@ -14,4 +14,4 @@ redirect_from:
 
 <img src="/images/agave_1000width.JPG" alt="agave parryi" width="750">
 
-[ <a href="/files/CV_APR2025_v3.pdf">Download CV as PDF</a> ]
+[ <a href="/files/CV_APR2026_v3.pdf">Download CV as PDF</a> ]
