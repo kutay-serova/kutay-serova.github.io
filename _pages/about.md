@@ -19,7 +19,7 @@ I am a PhD Candidate in Linguistics at the University of Chicago.
 
 My dissertation, *On the Derivational Routes to Shared Exponence*, investigates structural constraints on Right Edge Sharing phenomena, which comprises of Right Node Raising, Backwards Gapping, and Suspended Affixation.
 
-My research interests encompass syntactic and morphological theory and their interfaces (Morphophonology, Syntax-Semantics Interface). Recently, my work focuses on the following topics:
+My research interests encompass syntactic and morphological theory and their interfaces (Morphophonology, Syntax-Semantics Interface). Recently, my work focuses on the following topics: 
 
 * Multiple Exponence & Ellipsis: Sluicing, Gapping, Suspended Affixation, Right Node Raising
 * Allomorphy: Suppletion, Morphophonological Alternations, Domain Effects
