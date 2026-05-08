@@ -45,4 +45,4 @@ I am interested in researching the systematic grammatical underpinnings of cross
 * Autobiography blurb attempt in Middle Egyptian\
 (feedback and corrections welcome)
 <img src="/images/egyptian_short_bio_2022NOV.jpeg" alt="short bio in Middle Egyptian"/>
-* An Introductory Guide to LaTeX for Linguists \[<a href="/files/LaTeX_for_Linguists_20211123.zip">zip</a>\|<a href="/files/LaTeX_for_Linguists_20211123.pdf">pdf</a>\] (please download .tex file to see the LaTeX code and preamble)
+* An Introductory Guide to LaTeX for Linguists \[<a href="/files/misc/LaTeX_for_Linguists_20211123.zip">zip</a>\|<a href="/files/misc/LaTeX_for_Linguists_20211123.pdf">pdf</a>\] (please download .tex file to see the LaTeX code and preamble)
